@@ -41,3 +41,16 @@
     background-color:#f4f4f4;
     color: #333;
 }
+
+/* Felx items */
+.felx-items {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    height: 100%;
+}
+
+.felx-items > div {
+    padding: 20px;
+}
