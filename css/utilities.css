@@ -59,7 +59,13 @@
 .felx-items > div {
     padding: 20px;
 }
+
 /* Flex columns */
+.flex-columns.flex-reverse .row {
+    flex-direction: row-reverse;
+}
+
+
 .flex-columns .row {
     display: flex;
     flex-direction: row;
@@ -104,6 +110,7 @@
 .flex-columns p {
     margin: 20px 0;
 }
+
 
 /* Section header */
 .section-header {
