@@ -47,8 +47,8 @@
     border: 1px solid #fff;
 }
 
-/* Felx items */
-.felx-items {
+/* Flex items */
+.flex-items {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -56,14 +56,14 @@
     height: 100%;
 }
 
-.felx-items > div {
+.flex-items > div {
     padding: 20px;
 }
 
 /* Flex columns */
 .flex-columns.flex-reverse .row {
     flex-direction: row-reverse;
-}
+} 
 
 
 .flex-columns .row {
