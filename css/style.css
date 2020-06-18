@@ -93,7 +93,7 @@ img {
 }
 
 .hero .content h1 {
-    font-size: 55px;
+    font-size: 65px;
 }
 
 .hero .content p {
@@ -257,4 +257,10 @@ img {
      .team img {
          width: 70%;
      }
+
+
+     .hero .content h1 {
+        font-size: 50px;
+    }
+     
 }
