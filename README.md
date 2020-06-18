@@ -6,20 +6,22 @@
 ##
 ## Description
 
-_This practicing using *classes, Ids, mediaQuery* and linked *Bootstrap*  for responsiveness website with *CSS*, also added *JavaScript* code for hide _navbar__ on scroll and smooth transition on the homepage.
+_This practicing working with  * CSS classes, Ids, flex-items, mediaQuery* for responsiveness, *JavaScript* for _navbar__ hide on scroll and jQuery CDN for smooth scroll on the homepage.
 ##
 
-## Technologies Used
+## Tools Used
+
+**HTML** 
+ 
+**CSS**
+
+**jQuery CDN**
+
+**JavaScript**
 
 **GitHub**
 
-**HTML** 
-
- **CSS**
- 
-**JavaScript**
-
-**Bootstrap  &  jQuery** 
+##
 
 ![Screen Shot 2020-06-15 at 8 04 43 PM](https://user-images.githubusercontent.com/65758011/84718616-08005600-af47-11ea-8b48-f22bf35e943e.png )
 ##
