@@ -24,6 +24,7 @@ _This practicing working with  * CSS classes, Ids, flex-items, mediaQuery* for r
 ##
 
 ![Screen Shot 2020-06-15 at 8 04 43 PM](https://user-images.githubusercontent.com/65758011/84718616-08005600-af47-11ea-8b48-f22bf35e943e.png )
+[*gitHub-pages link*](https://mostafamazhar.github.io/edgeledger_website/)
 ##
 
 ### License
