@@ -6,7 +6,7 @@
 ##
 ## Description
 
-_This practicing working with  * CSS classes, Ids, flex-items, mediaQuery* for responsiveness, *JavaScript* for _navbar__ hide on scroll and jQuery CDN for smooth scroll on the homepage.
+_This practicing working with  *CSS classes, Ids, flex-items, mediaQuery* for responsiveness, *JavaScript* for _navbar__ hide on scroll and jQuery CDN for smooth scroll on the homepage.
 ##
 
 ## Tools Used
